@@ -11,3 +11,5 @@
     - (C)leetcode.8
 - 2023/1/9
     - (C)leetcode.9
+- 2023/1/10
+    - (C)leetcode.10
