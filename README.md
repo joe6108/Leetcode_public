@@ -17,3 +17,5 @@
     - (C)leetcode.12
 - 2023/1/12
     - (C)leetcode.13
+- 2023/1/13
+    - (C)leetcode.14
