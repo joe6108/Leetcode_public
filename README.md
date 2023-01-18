@@ -1,5 +1,10 @@
 # 每日leetcode練習
 ## 練習範圍 -> easy ~ medium
+
+## note
+
+Starting from January 18, 2023, each Leetcode problem will have simple annotations added.
+
 ### 這邊只存放leetcode上通過的版本code
 ***
 #### 紀錄
@@ -27,3 +32,6 @@
     - (C)leetcode.17
 - 2023/1/17
     - (C)leetcode.18
+- 2023/1/18
+    - (C)leetcode.19
+
