@@ -36,4 +36,6 @@ Starting from January 18, 2023, each Leetcode problem will have simple annotatio
     - (C)leetcode.19
 - 2023/1/19
     - (C)leetcode.20
+- 2023/1/20
+    - (C)leetcode.21
 
