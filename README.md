@@ -76,5 +76,7 @@ Starting from January 18, 2023, each Leetcode problem will have simple annotatio
     - (C)leetcode.47
 - 2023/2/9
     - (C)leetcode.48
+- 2023/2/10
+    - (C)leetcode.49
 
 
