@@ -1,3 +1,30 @@
+
+
+//2023/2/16
+char * convert(char * s, int numRows){
+    char* ans = malloc(sizeof(char)*1001);
+    if(numRows==1) return s;
+    int i,j,step,length,pos=0;
+    int count = 0;
+    length = strlen(s);
+    //printf("length = %d, numRows = %d\n", length, numRows);
+    step = (numRows-1)*2;
+    for(i=0;i<numRows;i++){
+        for(j=i;j<length;j+=step){
+            if(i!=0 && i!=numRows-1){
+                ans[pos++] = s[j];
+                if((j+step-(2*i))<length)ans[pos++] = s[(j+step-(2*i))];
+            }else{
+                ans[pos++] = s[j];
+            }
+        }
+    }
+    ans[pos] = '\0';
+    return ans;
+}
+
+
+
 char * convert(char * s, int numRows){
     int length = strlen(s); 
     if(s[0] == '\0') return 0;
