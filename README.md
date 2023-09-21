@@ -168,3 +168,7 @@ Starting from January 18, 2023, each Leetcode problem will have simple annotatio
     - (C)leetcode.104
 - 2023/4/27
     - (C)leetcode.105
+- 2023/8/9
+    - (C)leetcode.106
+- 2023/8/10
+    - (C)leetcode.107
