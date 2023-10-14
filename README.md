@@ -198,3 +198,5 @@ Starting from January 18, 2023, each Leetcode problem will have simple annotatio
     - (C)leetcode.120
 - 2023/10/13
     - (C)leetcode.121
+- 2023/10/14
+    - (C)leetcode.122
