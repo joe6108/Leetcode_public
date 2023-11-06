@@ -218,3 +218,31 @@ Starting from January 18, 2023, each Leetcode problem will have simple annotatio
     - (C)leetcode.136
 - 2023/10/23
     - (C)leetcode.137
+- 2023/10/24
+    - (C)leetcode.138
+- 2023/10/25
+    - (C)leetcode.139
+- 2023/10/26
+    - (C)leetcode.141
+- 2023/10/27
+    - (C)leetcode.142
+- 2023/10/28
+    - (C)leetcode.143
+- 2023/10/29
+    - (C)leetcode.144
+- 2023/10/30
+    - (C)leetcode.145
+- 2023/10/31
+    - (C)leetcode.147
+- 2023/11/01
+    - (C)leetcode.148
+- 2023/11/02
+    - (C)leetcode.150
+- 2023/11/03
+    - (C)leetcode.146
+- 2023/11/04
+    - (C)leetcode.151
+- 2023/11/05
+    - (C)leetcode.152
+- 2023/11/06
+    - (C)leetcode.153
