@@ -272,3 +272,5 @@ Starting from January 18, 2023, each Leetcode problem will have simple annotatio
     - (C)leetcode.187
 - 2024/1/5
     - (C)leetcode.189
+- 2024/1/16
+    - (C)leetcode.198
